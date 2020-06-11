@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-react",
+  "version": "0.0.1",
+  "description": "My personal eslint configuration for React projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhanenjjv/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Janne Vanhanen <janne.vanhanen@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanhanenjjv/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/vanhanenjjv/eslint-config-react#readme"
+}
