@@ -28,6 +28,7 @@
     "semi": ["error", "always"],
     "no-trailing-spaces": "error",
     "newline-before-return": "error",
-    "import/newline-after-import": ["error", { "count": 2 }]
+    "import/newline-after-import": ["error", { "count": 2 }],
+    "eol-last": ["error", "always"]
   }
 }
