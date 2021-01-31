@@ -42,7 +42,7 @@
     "jsx-quotes": ["error", "prefer-double"],
     "keyword-spacing": "error",
     "lines-between-class-members": ["error", "always"],
-    "max-len": ["error", { "code": 120, "ignoreComments": true }],
+    "max-len": ["error", { "code": 120, "ignoreComments": true, "ignoreStrings": true }],
     "newline-after-var": "error",
     "newline-before-return": "error",
     "newline-per-chained-call": ["error", { "ignoreChainWithDepth": 2 }],
